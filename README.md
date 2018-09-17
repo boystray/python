@@ -1,4 +1,6 @@
-pythonÓÃmpl_financeÖĞµÄcandlestick_ohlc»­·ÖÊ±Í¼
-matplotlib.finance¶ÀÁ¢³öÀ´³ÉÎªmpl_finance£¬¶ømpl_financeÖĞµÄcandlestick_ochlºÍcandlestick_ohlcÒ»°ãÓÃÀ´»­¹ÉÆ±µÄKÏßÍ¼¡£ÎÒĞèÒª·ÖÎö·ÖÊ±Í¼£¬Ò²¾ÍÊÇÒ»·ÖÖÓµÄĞĞÇé£¬Õâ¸öÊ±ºò¾Í²»ÄÜÖ±½ÓÓÃcandlestick_ochlº¯Êı£¬ÒòÎªcandlestick_ochlÖĞxÖá×îĞ¡µÄµ¥Î»ÊÇÈÕÆÚ£¬²»ÊÇ·ÖÖÓ¡£
+pythonç”¨mpl_financeä¸­çš„candlestick_ohlcç”»åˆ†æ—¶å›¾
+matplotlib.financeç‹¬ç«‹å‡ºæ¥æˆä¸ºmpl_financeï¼Œè€Œmpl_financeä¸­çš„candlestick_ochlå’Œcandlestick_ohlcä¸€èˆ¬ç”¨æ¥ç”»è‚¡ç¥¨çš„Kçº¿å›¾ã€‚æˆ‘éœ€è¦åˆ†æåˆ†æ—¶å›¾ï¼Œä¹Ÿå°±æ˜¯ä¸€åˆ†é’Ÿçš„è¡Œæƒ…ï¼Œè¿™ä¸ªæ—¶å€™å°±ä¸èƒ½ç›´æ¥ç”¨candlestick_ochlå‡½æ•°ï¼Œå› ä¸ºcandlestick_ochlä¸­xè½´æœ€å°çš„å•ä½æ˜¯æ—¥æœŸï¼Œä¸æ˜¯åˆ†é’Ÿã€‚
 
-ÏêÇéhttps://blog.csdn.net/boyStray/article/details/82740772
+è¯¦æƒ…https://blog.csdn.net/boyStray/article/details/82740772
+
+![image](https://github.com/boystray/python/raw/master/åˆ†æ—¶å›¾ä¾‹å­.png)
